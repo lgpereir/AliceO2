@@ -1,0 +1,75 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/dd4/classo2_1_1tof_1_1compressed_1_1DecoderBaseT.html" title="o2::tof::compressed\l::DecoderBaseT\&lt; RAWDataHeader \&gt;" alt="" coords="5,35,267,76"/>
+<area shape="rect" id="node2" href="$dd/d7c/classo2_1_1tof_1_1CompressedDecodingTask.html" title="o2::tof::CompressedDecodingTask" alt="" coords="315,71,557,98"/>
+<area shape="rect" id="node3" href="$db/db0/classo2_1_1tof_1_1CompressedInspectorTask.html" title="o2::tof::CompressedInspector\lTask\&lt; RAWDataHeader \&gt;" alt="" coords="329,5,543,47"/>
+<area shape="rect" id="node4" href="$de/dac/classo2_1_1framework_1_1Task.html" title="o2::framework::Task" alt="" coords="59,1910,213,1937"/>
+<area shape="rect" id="node5" href="$d8/d0d/structATask.html" title="ATask" alt="" coords="407,426,465,453"/>
+<area shape="rect" id="node6" href="$d2/d10/structBTask.html" title="BTask" alt="" coords="406,477,466,503"/>
+<area shape="rect" id="node7" href="$df/dae/classo2_1_1calibration_1_1CCDBPopulator.html" title="o2::calibration::CCDBPopulator" alt="" coords="325,527,547,554"/>
+<area shape="rect" id="node8" href="$da/d5e/classo2_1_1calibration_1_1LHCClockCalibDevice.html" title="o2::calibration::LHCClock\lCalibDevice" alt="" coords="343,579,529,620"/>
+<area shape="rect" id="node9" href="$de/d19/classo2_1_1calibration_1_1TFDispatcher.html" title="o2::calibration::TFDispatcher" alt="" coords="332,645,540,671"/>
+<area shape="rect" id="node10" href="$df/d3c/classo2_1_1calibration_1_1TFProcessor.html" title="o2::calibration::TFProcessor" alt="" coords="335,695,537,722"/>
+<area shape="rect" id="node11" href="$d9/dea/classo2_1_1cpv_1_1reco__workflow_1_1ClusterizerSpec.html" title="Clusterizer task for CPV digits. " alt="" coords="351,747,521,788"/>
+<area shape="rect" id="node12" href="$d8/d5f/classo2_1_1cpv_1_1reco__workflow_1_1DigitsPrinterSpec.html" title="Example task for CPV digits monitoring. " alt="" coords="351,812,521,853"/>
+<area shape="rect" id="node13" href="$d5/d75/classo2_1_1ctf_1_1CTFReaderSpec.html" title="o2::ctf::CTFReaderSpec" alt="" coords="351,878,521,905"/>
+<area shape="rect" id="node14" href="$d5/dd3/classo2_1_1ctf_1_1CTFWriterSpec.html" title="o2::ctf::CTFWriterSpec" alt="" coords="353,929,519,955"/>
+<area shape="rect" id="node15" href="$d1/dac/classo2_1_1emcal_1_1reco__workflow_1_1AnalysisClusterSpec.html" title="Analysis Cluster task for EMCAL anlaysis clusters. " alt="" coords="342,979,530,1035"/>
+<area shape="rect" id="node16" href="$d1/d1b/classo2_1_1emcal_1_1reco__workflow_1_1CellConverterSpec.html" title="Coverter task for EMCAL digits to EMCAL cells. " alt="" coords="342,1060,530,1101"/>
+<area shape="rect" id="node17" href="$d2/d53/classo2_1_1emcal_1_1reco__workflow_1_1ClusterizerSpec.html" title="Clusterizer task for EMCAL digits. " alt="" coords="324,1125,548,1167"/>
+<area shape="rect" id="node18" href="$d0/d1c/classo2_1_1emcal_1_1reco__workflow_1_1DigitsPrinterSpec.html" title="Example task for EMCAL digits monitoring. " alt="" coords="319,1191,553,1232"/>
+<area shape="rect" id="node19" href="$d8/d69/classo2_1_1emcal_1_1reco__workflow_1_1RawToCellConverterSpec.html" title="Coverter task for Raw data to EMCAL cells. " alt="" coords="340,1256,532,1297"/>
+<area shape="rect" id="node20" href="$df/d93/classo2_1_1fdd_1_1DigitReader.html" title="o2::fdd::DigitReader" alt="" coords="361,1322,511,1349"/>
+<area shape="rect" id="node21" href="$d5/d80/classo2_1_1fdd_1_1FDDReconstructorDPL.html" title="o2::fdd::FDDReconstructorDPL" alt="" coords="328,1373,544,1399"/>
+<area shape="rect" id="node22" href="$df/d6d/classo2_1_1fdd_1_1FDDRecPointWriter.html" title="o2::fdd::FDDRecPointWriter" alt="" coords="337,1423,535,1450"/>
+<area shape="rect" id="node23" href="$d8/dc0/classo2_1_1fdd_1_1RecPointReader.html" title="o2::fdd::RecPointReader" alt="" coords="348,1474,524,1501"/>
+<area shape="rect" id="node24" href="$d8/d30/classo2_1_1framework_1_1Dispatcher.html" title="o2::framework::Dispatcher" alt="" coords="339,1525,533,1551"/>
+<area shape="rect" id="node25" href="$d0/dc7/classo2_1_1ft0_1_1DigitReader.html" title="o2::ft0::DigitReader" alt="" coords="362,1575,510,1602"/>
+<area shape="rect" id="node26" href="$d7/d4b/classo2_1_1ft0_1_1FT0ReconstructorDPL.html" title="o2::ft0::FT0ReconstructorDPL" alt="" coords="331,1626,541,1653"/>
+<area shape="rect" id="node27" href="$d5/de8/classo2_1_1ft0_1_1FT0RecPointWriter.html" title="o2::ft0::FT0RecPointWriter" alt="" coords="341,1677,531,1703"/>
+<area shape="rect" id="node28" href="$dd/dea/classo2_1_1ft0_1_1RecPointReader.html" title="o2::ft0::RecPointReader" alt="" coords="349,1727,523,1754"/>
+<area shape="rect" id="node29" href="$da/d84/classo2_1_1globaltracking_1_1TPCITSMatchingDPL.html" title="o2::globaltracking\l::TPCITSMatchingDPL" alt="" coords="357,1779,515,1820"/>
+<area shape="rect" id="node30" href="$d1/dd4/classo2_1_1globaltracking_1_1TrackTPCITSReader.html" title="o2::globaltracking\l::TrackTPCITSReader" alt="" coords="359,1844,513,1885"/>
+<area shape="rect" id="node31" href="$d7/dd0/classo2_1_1its_1_1ClustererDPL.html" title="o2::its::ClustererDPL" alt="" coords="359,1910,513,1937"/>
+<area shape="rect" id="node32" href="$d2/d50/classo2_1_1its_1_1ClusterWriter.html" title="o2::its::ClusterWriter" alt="" coords="359,1961,513,1987"/>
+<area shape="rect" id="node33" href="$d2/d11/classo2_1_1its_1_1CookedTrackerDPL.html" title="o2::its::CookedTrackerDPL" alt="" coords="341,2011,531,2038"/>
+<area shape="rect" id="node34" href="$d1/d0b/classo2_1_1its_1_1DigitReader.html" title="o2::its::DigitReader" alt="" coords="363,2062,509,2089"/>
+<area shape="rect" id="node35" href="$d0/d46/classo2_1_1its_1_1TestDataGetter.html" title="o2::its::TestDataGetter" alt="" coords="352,2113,520,2139"/>
+<area shape="rect" id="node36" href="$db/d7e/classo2_1_1its_1_1TestDataReader.html" title="o2::its::TestDataReader" alt="" coords="350,2163,522,2190"/>
+<area shape="rect" id="node37" href="$d6/d54/classo2_1_1its_1_1TrackerDPL.html" title="o2::its::TrackerDPL" alt="" coords="365,2214,507,2241"/>
+<area shape="rect" id="node38" href="$d2/d07/classo2_1_1its_1_1TrackReader.html" title="o2::its::TrackReader" alt="" coords="361,2265,511,2291"/>
+<area shape="rect" id="node39" href="$d8/d28/classo2_1_1its_1_1TrackWriter.html" title="o2::its::TrackWriter" alt="" coords="365,2315,507,2342"/>
+<area shape="rect" id="node40" href="$d6/da1/classo2_1_1its_1_1VertexReader.html" title="o2::its::VertexReader" alt="" coords="357,2366,515,2393"/>
+<area shape="rect" id="node41" href="$d1/dc3/classo2_1_1itsmft_1_1ClusterReader.html" title="o2::itsmft::ClusterReader" alt="" coords="344,2417,528,2443"/>
+<area shape="rect" id="node44" href="$d4/d79/classo2_1_1itsmft_1_1EntropyDecoderSpec.html" title="o2::itsmft::EntropyDecoderSpec" alt="" coords="322,2467,550,2494"/>
+<area shape="rect" id="node45" href="$d1/d3a/classo2_1_1itsmft_1_1EntropyEncoderSpec.html" title="o2::itsmft::EntropyEncoderSpec" alt="" coords="323,2518,549,2545"/>
+<area shape="rect" id="node46" href="$df/d13/classo2_1_1itsmft_1_1STFDecoder.html" title="o2::itsmft::STFDecoder\l\&lt; Mapping \&gt;" alt="" coords="351,2569,521,2611"/>
+<area shape="rect" id="node47" href="$da/d4a/classo2_1_1mergers_1_1FullHistoryMerger.html" title="FullHistoryMerger data processor class. " alt="" coords="347,2635,525,2676"/>
+<area shape="rect" id="node48" href="$dc/d26/classo2_1_1mergers_1_1IntegratingMerger.html" title="IntegratingMerger data processor class. " alt="" coords="347,2700,525,2741"/>
+<area shape="rect" id="node49" href="$d6/d47/classo2_1_1mft_1_1ClustererDPL.html" title="o2::mft::ClustererDPL" alt="" coords="355,2766,517,2793"/>
+<area shape="rect" id="node50" href="$d1/d6e/classo2_1_1mft_1_1ClusterReader.html" title="o2::mft::ClusterReader" alt="" coords="352,2817,520,2843"/>
+<area shape="rect" id="node51" href="$db/d55/classo2_1_1mft_1_1ClusterWriter.html" title="o2::mft::ClusterWriter" alt="" coords="355,2867,517,2894"/>
+<area shape="rect" id="node52" href="$de/dae/classo2_1_1mft_1_1DigitReader.html" title="o2::mft::DigitReader" alt="" coords="359,2918,513,2945"/>
+<area shape="rect" id="node53" href="$da/d42/classo2_1_1mft_1_1TrackerDPL.html" title="o2::mft::TrackerDPL" alt="" coords="361,2969,511,2995"/>
+<area shape="rect" id="node54" href="$d1/d85/classo2_1_1mft_1_1TrackFitterTask.html" title="o2::mft::TrackFitterTask" alt="" coords="349,3019,523,3046"/>
+<area shape="rect" id="node55" href="$d8/d41/classo2_1_1mft_1_1TrackWriter.html" title="o2::mft::TrackWriter" alt="" coords="361,3070,511,3097"/>
+<area shape="rect" id="node56" href="$d1/d85/classo2_1_1phos_1_1reco__workflow_1_1CellConverterSpec.html" title="Coverter task for PHOS digits to AOD PHOS cells. " alt="" coords="347,3121,525,3163"/>
+<area shape="rect" id="node57" href="$d4/d5f/classo2_1_1phos_1_1reco__workflow_1_1ClusterizerSpec.html" title="Clusterizer task for PHOS digits. " alt="" coords="347,3187,525,3228"/>
+<area shape="rect" id="node58" href="$d1/d97/classo2_1_1phos_1_1reco__workflow_1_1DigitsPrinterSpec.html" title="Example task for PHOS digits monitoring. " alt="" coords="347,3252,525,3293"/>
+<area shape="rect" id="node59" href="$d2/db5/classo2_1_1tof_1_1ClusterReader.html" title="o2::tof::ClusterReader" alt="" coords="355,3318,517,3345"/>
+<area shape="rect" id="node60" href="$d0/d73/classo2_1_1tof_1_1ClusterWriter.html" title="o2::tof::ClusterWriter" alt="" coords="357,3369,515,3395"/>
+<area shape="rect" id="node61" href="$d2/d8a/classo2_1_1tof_1_1CompressorTask.html" title="o2::tof::CompressorTask\l\&lt; RAWDataHeader, verbose \&gt;" alt="" coords="327,3420,545,3461"/>
+<area shape="rect" id="node62" href="$d9/d97/classo2_1_1tof_1_1DigitReader.html" title="o2::tof::DigitReader" alt="" coords="362,3486,510,3513"/>
+<area shape="rect" id="node63" href="$d2/dbc/classo2_1_1tof_1_1RawWriter.html" title="o2::tof::RawWriter" alt="" coords="367,3537,505,3563"/>
+<area shape="rect" id="node64" href="$de/dd3/classo2_1_1tof_1_1TOFCalibWriter.html" title="o2::tof::TOFCalibWriter" alt="" coords="351,3587,521,3614"/>
+<area shape="rect" id="node65" href="$d0/de3/classo2_1_1tof_1_1TOFMatchedReader.html" title="o2::tof::TOFMatchedReader" alt="" coords="337,3638,535,3665"/>
+<area shape="rect" id="node66" href="$d3/d1d/classo2_1_1tof_1_1TOFMatchedWriter.html" title="o2::tof::TOFMatchedWriter" alt="" coords="341,3689,531,3715"/>
+<area shape="rect" id="node67" href="$db/dac/classo2_1_1tpc_1_1EntropyDecoderSpec.html" title="o2::tpc::EntropyDecoderSpec" alt="" coords="331,3739,541,3766"/>
+<area shape="rect" id="node68" href="$de/d3d/classo2_1_1tpc_1_1EntropyEncoderSpec.html" title="o2::tpc::EntropyEncoderSpec" alt="" coords="333,122,539,149"/>
+<area shape="rect" id="node69" href="$d9/d4f/classo2_1_1tpc_1_1TPCInterpolationDPL.html" title="o2::tpc::TPCInterpolationDPL" alt="" coords="333,173,539,199"/>
+<area shape="rect" id="node70" href="$d1/d90/classo2_1_1tpc_1_1TrackReader.html" title="&lt; DPL device to read and send the TPC tracks (+MC) info " alt="" coords="359,223,513,250"/>
+<area shape="rect" id="node71" href="$db/d09/classo2_1_1trd_1_1TRDDigitReaderSpec.html" title="o2::trd::TRDDigitReaderSpec" alt="" coords="333,274,539,301"/>
+<area shape="rect" id="node72" href="$d3/dfd/classo2_1_1trd_1_1TRDDPLTrapSimulatorTask.html" title="o2::trd::TRDDPLTrapSimulatorTask" alt="" coords="315,325,557,351"/>
+<area shape="rect" id="node73" href="$dc/d6a/classrawReaderSpecs.html" title="rawReaderSpecs" alt="" coords="371,375,501,402"/>
+<area shape="rect" id="node42" href="$d9/d77/classo2_1_1itsmft_1_1ITSClusterReader.html" title="o2::itsmft::ITSClusterReader" alt="" coords="608,2391,812,2418"/>
+<area shape="rect" id="node43" href="$d5/dce/classo2_1_1itsmft_1_1MFTClusterReader.html" title="o2::itsmft::MFTClusterReader" alt="" coords="605,2442,815,2469"/>
+</map>
